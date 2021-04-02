@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Associate Platform Engineer working for McKesson. My work is a mix of operations, research and implementation, which I really enjoy!
+I'm just a guy who really enjoys cloud computing and various other technologies. I love to learn and whatever I do learn I try to implement into the next side project!
 
 - 🔭 I’m currently working on my side project backlog!
 - 🌱 I’m currently learning more about Kubernetes and ZFS
