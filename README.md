@@ -22,7 +22,6 @@ I'm a 26 year old, born, living and working in Ireland. I am a massive nerd and 
 	- I started my career with Kubernetes, so it will always have a special place in my heart. It is probably one of the few pieces of software I understand throughout in terms of how it works.
 - Cloud Computing
 	- Been using cloud in some shape or form for eight years so I quite enjoy it. Still have my favourites when it comes to specific providers. Ultimately once they implement your chosen layer of abstraction, that should be all that matters. Lest they prove to be highly unreliable.
-- 
 
 ## Books I read that I liked recently
 These are in no particular order, they're all stand outs to me.
